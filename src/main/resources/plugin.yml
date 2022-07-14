@@ -1,0 +1,14 @@
+name: ConfigurableMenus
+version: '${project.version}'
+main: yt.bebr0.configurablemenus.Plugin
+api-version: 1.16
+authors: [ BeBr0 ]
+
+commands:
+  flInv:
+    description: Команда для открытия кастомного инвентаря по имени
+    usage: /flInv open <name>
+
+  flInvSetup:
+    description: Команда для настройки инвентарей
+    usage: /flInvSetup <create|edit> <name> <size>
