@@ -1,7 +1,6 @@
 package yt.bebr0.configurablemenus.util
 
 import org.bukkit.ChatColor
-import org.bukkit.Utility
 import org.bukkit.command.CommandSender
 import yt.bebr0.configurablemenus.Plugin
 

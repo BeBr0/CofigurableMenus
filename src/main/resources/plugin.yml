@@ -5,10 +5,10 @@ api-version: 1.16
 authors: [ BeBr0 ]
 
 commands:
-  flInv:
+  inv:
     description: Команда для открытия кастомного инвентаря по имени
-    usage: /flInv open <name>
+    usage: /inv open <name>
 
-  flInvSetup:
+  invSetup:
     description: Команда для настройки инвентарей
-    usage: /flInvSetup <create|edit> <name> <size>
+    usage: /invSetup <create|edit> <name> <size>
