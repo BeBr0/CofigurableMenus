@@ -11,6 +11,7 @@ class Plugin: JavaPlugin() {
 
     companion object{
         lateinit var instance: Plugin
+            private set
     }
 
     override fun onEnable(){
